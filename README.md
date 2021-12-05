@@ -26,4 +26,4 @@ The weekly total fares are much higher in the Urban cities, followed by the Subu
 ## Summary - Business Recommendations 
 1. Invest in hiring more drivers in the Suburban cities as there is a surplus of rides/driver there.
 2. Buy more taxis in the Suburban cities to be able to meet the demand of rides.
-3. Consider incentives to move drivers/taxis from the Urban setting to the Suburban setting.
+3. Consider incentives to move excess drivers/taxis from the Urban setting to the Suburban setting.
