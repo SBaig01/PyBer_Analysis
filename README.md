@@ -21,7 +21,7 @@ We can get the following insights from the Summary table (see below).
 
 The weekly total fares are much higher in the Urban cities, followed by the Suburban cities that are closer to the total fares in the Rural setting.
 
-    ![Total Fares by City Type](https://github.com/SBaig01/PyBer_Analysis/blob/6aa002627b3a9a44ce52b3e1f1d1ef3ea29ef6e7/PyBer_fare_summary.png)
+    ![Total Fares by City Type](https://github.com/SBaig01/PyBer_Analysis/blob/e4f6464301ee594aa5bbcd23b69ffef1a1ef6fda/analysis/PyBer_fare_summary.png)
 
 ## Summary - Business Recommendations 
 1. Invest in hiring more drivers in the Suburban cities as there is a surplus of rides/driver there.
